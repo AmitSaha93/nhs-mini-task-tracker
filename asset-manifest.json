@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nhs-mini-task-tracker/static/css/main.3916bd3c.css",
-    "main.js": "/nhs-mini-task-tracker/static/js/main.473d6558.js",
+    "main.js": "/nhs-mini-task-tracker/static/js/main.1c681442.js",
     "index.html": "/nhs-mini-task-tracker/index.html",
     "main.3916bd3c.css.map": "/nhs-mini-task-tracker/static/css/main.3916bd3c.css.map",
-    "main.473d6558.js.map": "/nhs-mini-task-tracker/static/js/main.473d6558.js.map"
+    "main.1c681442.js.map": "/nhs-mini-task-tracker/static/js/main.1c681442.js.map"
   },
   "entrypoints": [
     "static/css/main.3916bd3c.css",
-    "static/js/main.473d6558.js"
+    "static/js/main.1c681442.js"
   ]
 }
